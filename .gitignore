@@ -6,4 +6,5 @@
 .settings
 bin/
 .vscode/
+pkg/
 *.exe
